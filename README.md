@@ -12,4 +12,5 @@ This project exists to make it easier for manually testing development work on H
 ## Usage
 
 * Modify `composer.json` as needed to reference the appropriate fork and branch
+* Composer install
 * Run the Hearth installer as needed
